@@ -1,0 +1,15 @@
+[
+  {
+    "month": "2025-04",
+    "categories": {
+      "Food": 33,
+      "Utilities": 100,
+      "Entertainment": 20,
+      "Insurance": 200,
+      "Health": 100,
+      "Shopping": 100,
+      "Uncategorized": 100
+    },
+    "_id": "a5406d2e-a857-4929-bd04-18929cd0bb22"
+  }
+]

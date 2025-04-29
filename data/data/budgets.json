@@ -1,0 +1,14 @@
+[
+    {
+      "_id": "budget-2025-04",
+      "month": "2025-04",
+      "categories": {
+        "Food": 300.00,
+        "Utilities": 200.00,
+        "Entertainment": 100.00,
+        "Insurance": 250.00,
+        "Health": 150.00,
+        "Shopping": 200.00
+      }
+    }
+  ]

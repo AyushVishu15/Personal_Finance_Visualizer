@@ -31,7 +31,11 @@ export async function POST(request: Request) {
   try {
     const body = await request.json();
     const transactions = await readTransactions();
-    const newTransaction = { ...body, _id: body._id || uuidv4() };
+    const newTransaction = {
+      ...body,
+      _id: body._id || uuidv4(),
+      category: body.category || 'Uncategorized',
+    };
     transactions.push(newTransaction);
     await writeTransactions(transactions);
     return NextResponse.json(newTransaction);

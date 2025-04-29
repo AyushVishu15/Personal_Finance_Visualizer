@@ -1,56 +1,72 @@
 [
   {
-    "_id": "ce3676d8-2d2e-40d6-9afd-6a7b99dd6f66",
-    "amount": 120,
-    "date": "2025-01-07",
-    "description": "Electricity bill payment"
-  },
-  {
-    "_id": "cdd30505-5c0c-410c-ad03-4518cd4592dd",
-    "amount": 88.99,
-    "date": "2025-01-30",
-    "description": "Dinner at Restaurant"
-  },
-  {
-    "_id": "50bba055-29d4-4734-8039-71ae7c867d21",
+    "_id": "1a2b3c4d-5e6f-7g8h-9i0j-1k2l3m4n5o6p",
     "amount": 50.25,
-    "date": "2025-02-12",
-    "description": "Grocery shopping at Supermart"
+    "date": "2025-01-16",
+    "description": "Grocery shopping at Supermart",
+    "category": "Food"
   },
   {
-    "_id": "24ae3c18-306b-46fc-acbe-0ea5cb61e5ae",
+    "_id": "2b3c4d5e-6f7g-8h9i-0j1k-2l3m4n5o6p7",
+    "amount": 120,
+    "date": "2025-03-22",
+    "description": "Electricity bill payment",
+    "category": "Utilities"
+  },
+  {
+    "_id": "3c4d5e6f-7g8h-9i0j-1k2l-3m4n5o6p7q8",
+    "amount": 15.99,
+    "date": "2025-04-05",
+    "description": "Streaming service subscription",
+    "category": "Entertainment"
+  },
+  {
+    "_id": "4d5e6f7g-8h9i-0j1k-2l3m-4n5o6p7q8r9",
+    "amount": 75.5,
+    "date": "2025-01-07",
+    "description": "Dinner at Restaurant ",
+    "category": "Food"
+  },
+  {
+    "_id": "5e6f7g8h-9i0j-1k2l-3m4n-5o6p7q8r9s0",
     "amount": 200,
-    "date": "2025-02-28",
-    "description": "Car insurance payment"
+    "date": "2025-04-10",
+    "description": "Car insurance payment",
+    "category": "Insurance"
   },
   {
-    "_id": "774f54cb-4f8c-4a4b-a8ce-ba9f369afa15",
-    "amount": 55,
-    "date": "2025-03-01",
-    "description": "Gym membership fee"
+    "_id": "6f7g8h9i-0j1k-2l3m-4n5o-6p7q8r9s0t1",
+    "amount": 45,
+    "date": "2025-02-27",
+    "description": "Gym membership fee",
+    "category": "Health"
   },
   {
-    "_id": "725c2e61-c754-4067-8be1-b1848cd86c5a",
+    "_id": "7g8h9i0j-1k2l-3m4n-5o6p-7q8r9s0t1u2",
     "amount": 30.75,
-    "date": "2025-03-20",
-    "description": "Coffee and snacks at Cafe"
+    "date": "2025-03-15",
+    "description": "Coffee and snacks at Cafe ",
+    "category": "Food"
   },
   {
-    "_id": "8e985dc7-6fc8-444f-af18-4fd43f6b0704",
-    "amount": 90,
-    "date": "2025-04-04",
-    "description": "Online clothing purchase"
+    "_id": "8h9i0j1k-2l3m-4n5o-6p7q-8r9s0t1u2v3",
+    "amount": 89.99,
+    "date": "2025-02-18",
+    "description": "Online clothing purchase",
+    "category": "Shopping"
   },
   {
-    "_id": "1f79f443-68fb-4448-ad0c-6a7e658eec63",
-    "amount": 155,
-    "date": "2025-04-29",
-    "description": "Phone bill payment"
+    "_id": "9i0j1k2l-3m4n-5o6p-7q8r-9s0t1u2v3w4",
+    "amount": 150,
+    "date": "2025-02-20",
+    "description": "Phone bill payment",
+    "category": "Utilities"
   },
   {
-    "_id": "ca0a6196-5850-4e9f-8a23-b824d1c3d844",
-    "amount": 350,
-    "date": "2025-05-01",
-    "description": "Exprected trip to Goa"
+    "_id": "0j1k2l3m-4n5o-6p7q-8r9s-0t1u2v3w4x5",
+    "amount": 25,
+    "date": "2025-01-22",
+    "description": "Movie tickets",
+    "category": "Entertainment"
   }
 ]

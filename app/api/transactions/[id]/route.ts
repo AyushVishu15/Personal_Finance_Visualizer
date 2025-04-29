@@ -25,7 +25,11 @@ export async function PUT(request: Request, { params }: { params: { id: string }
     if (index === -1) {
       return NextResponse.json({ error: 'Transaction not found' }, { status: 404 });
     }
-    transactions[index] = { ...body, _id: params.id };
+    transactions[index] = {
+      ...body,
+      _id: params.id,
+      category: body.category || transactions[index].category || 'Uncategorized',
+    };
     await writeTransactions(transactions);
     return NextResponse.json(transactions[index]);
   } catch (error) {
