@@ -1,0 +1,56 @@
+[
+  {
+    "_id": "ce3676d8-2d2e-40d6-9afd-6a7b99dd6f66",
+    "amount": 120,
+    "date": "2025-01-07",
+    "description": "Electricity bill payment"
+  },
+  {
+    "_id": "cdd30505-5c0c-410c-ad03-4518cd4592dd",
+    "amount": 88.99,
+    "date": "2025-01-30",
+    "description": "Dinner at Restaurant"
+  },
+  {
+    "_id": "50bba055-29d4-4734-8039-71ae7c867d21",
+    "amount": 50.25,
+    "date": "2025-02-12",
+    "description": "Grocery shopping at Supermart"
+  },
+  {
+    "_id": "24ae3c18-306b-46fc-acbe-0ea5cb61e5ae",
+    "amount": 200,
+    "date": "2025-02-28",
+    "description": "Car insurance payment"
+  },
+  {
+    "_id": "774f54cb-4f8c-4a4b-a8ce-ba9f369afa15",
+    "amount": 55,
+    "date": "2025-03-01",
+    "description": "Gym membership fee"
+  },
+  {
+    "_id": "725c2e61-c754-4067-8be1-b1848cd86c5a",
+    "amount": 30.75,
+    "date": "2025-03-20",
+    "description": "Coffee and snacks at Cafe"
+  },
+  {
+    "_id": "8e985dc7-6fc8-444f-af18-4fd43f6b0704",
+    "amount": 90,
+    "date": "2025-04-04",
+    "description": "Online clothing purchase"
+  },
+  {
+    "_id": "1f79f443-68fb-4448-ad0c-6a7e658eec63",
+    "amount": 155,
+    "date": "2025-04-29",
+    "description": "Phone bill payment"
+  },
+  {
+    "_id": "ca0a6196-5850-4e9f-8a23-b824d1c3d844",
+    "amount": 350,
+    "date": "2025-05-01",
+    "description": "Exprected trip to Goa"
+  }
+]
